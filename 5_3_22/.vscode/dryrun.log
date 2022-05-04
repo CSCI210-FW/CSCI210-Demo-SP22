@@ -1,0 +1,5 @@
+make all --dry-run --keep-going --print-directory
+make: Entering directory '/mnt/c/Users/Angela/Documents/GitHub/CSCI210-Demo-SP22/5_3_22'
+g++ -pedantic-errors -g main.cpp -lsqlite3
+make: Leaving directory '/mnt/c/Users/Angela/Documents/GitHub/CSCI210-Demo-SP22/5_3_22'
+ 

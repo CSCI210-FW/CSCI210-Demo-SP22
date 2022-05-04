@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/c/Users/Angela/Documents/GitHub/CSCI210-Demo-SP22/5_3_22",
+            "binaryPath": "/mnt/c/Users/Angela/Documents/GitHub/CSCI210-Demo-SP22/5_3_22/a.out",
+            "binaryArgs": []
+        }
+    ]
+}
